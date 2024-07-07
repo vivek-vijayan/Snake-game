@@ -1,6 +1,3 @@
-Here's a professional and comprehensive README file for your Nokia Snake game:
-
----
 
 # Nokia Snake Game
 
