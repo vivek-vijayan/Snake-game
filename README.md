@@ -79,7 +79,3 @@ Developed by Vivek Vijayan.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize and enhance this README file as per your preferences and requirements. If you have any questions or need further assistance, feel free to reach out!
