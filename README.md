@@ -1,7 +1,7 @@
 
-# Nokia Snake Game
+# Snake Game
 
-Welcome to the classic Nokia Snake Game! This game brings back the nostalgia of the iconic snake game found on early mobile phones. Developed by Vivek Vijayan.
+Welcome to the classic Snake Game! This game brings back the nostalgia of the iconic snake game found on early mobile phones. Developed by Vivek Vijayan.
 
 ## Table of Contents
 
